@@ -1,5 +1,5 @@
 # Hi there, I'm Ujjwal Anand 👋
-<img src="images_used/image1.jpeg" height="150px" width="170px">
+
 <i>I am from <a href="https://www.geu.ac.in/" target="_blank">Graphic Era University</a>, Dehradun, currently pursuing BTECH CST, specialization in AI & ML.
     I am a front-end web developer currently making my way to a full stack developer and I <span style="font-weight:600;"> LOVE</span> reading about new technologies and new website designs
 </i>
