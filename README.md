@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn backend using Django and Postgresql
+- 🥅 2022 Goals: Learn Deep learning
 - <img src="https://media4.giphy.com/media/fnSUqVP4VBp5nreSul/200w.webp?cid=ecf05e47luuw7ma928fwfeif9s6989wr336iynpvkwpulsdb&rid=200w.webp&ct=g" height="20vw" width="20vw"> Pronouns: He/Him
 - ⚡ Fun fact: I love to draw and watch movies / series
 
@@ -44,7 +44,7 @@
 
 # My certifications
 <a href="https://drive.google.com/file/d/1daQ0e80_xrlCR8Ifaax6mbqmPPyaKAKq/view?usp=sharing"><img align="left" alt="Udemy" width="10%" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /></a>
-<a href="https://drive.google.com/drive/folders/1_wwrx2AS9mMYpJFv6_FvNmPhxjodb1Yo?usp=sharing"><img align="left" alt="Microsoft" width="10%" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
+<a href="https://drive.google.com/file/d/1d78QMre2Q659jCDgs2FsTE-Tx_x5uy8t/view?usp=sharing"><img align="left" alt="Microsoft" width="10%" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
 <a href="https://drive.google.com/file/d/10t8n6JWFFyuPRpb9wH-VjE0bKc8SCalU/view?usp=sharing"><img align="left" style="margin-top=-20px" alt="Udemy" width="10%" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /></a>
 <a href="https://drive.google.com/file/d/1QPuoLtVl9qsMzV-QnnhvlpytcTSQ8Ko2/view?usp=sharing"><img align="left" alt="Microsoft" width="10%" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
 >
