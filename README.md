@@ -47,6 +47,7 @@
 <a href="https://drive.google.com/file/d/1d78QMre2Q659jCDgs2FsTE-Tx_x5uy8t/view?usp=sharing"><img align="left" alt="Microsoft" width="10%" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
 <a href="https://drive.google.com/file/d/10t8n6JWFFyuPRpb9wH-VjE0bKc8SCalU/view?usp=sharing"><img align="left" style="margin-top=-20px" alt="Udemy" width="10%" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /></a>
 <a href="https://drive.google.com/file/d/1QPuoLtVl9qsMzV-QnnhvlpytcTSQ8Ko2/view?usp=sharing"><img align="left" alt="Microsoft" width="10%" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
+<a href="https://drive.google.com/file/d/1lY1L4PP3XdNmm8Aoo_rapwT6F5u6VBWX/view?usp=sharing"><img align="left" alt="aws" width="10%" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
 >
 
 
